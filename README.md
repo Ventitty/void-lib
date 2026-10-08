@@ -1,35 +1,33 @@
 # void-lib
 
-gettime
+- gettime
 
-malloc
-calloc
-realloc
-free
-nmap
-unmap
+- malloc
+- calloc
+- realloc
+- free
+- nmap
+- unmap
 
 
-fork
-wait
-waitpid
-exit
+- fork
+- wait
+- waitpid
+- exit
+- exec
 
-exec
+- read
+- write
+- printf
 
-open
-close
-write
-printf
+- createdir
+- deletedir
+- readdir
 
-createdir
-deletedir
-readdir
+- memcpy
+- memset
 
-memcpy
-memset
+- strcpy
+- strcat
 
-strcpy
-strcat
-
-random
+- random
