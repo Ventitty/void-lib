@@ -6,8 +6,8 @@
 - calloc
 - realloc
 - free
-- nmap
-- unmap
+- mmap
+- munmap
 
 
 - fork
